@@ -1,0 +1,25 @@
+{
+  "name": "app-version",
+  "version": "0.0.1",
+  "description": "simple angular 2 module for getting the current version of your app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshterrill/app-version.git"
+  },
+  "keywords": [
+    "app",
+    "version",
+    "angular",
+    "2"
+  ],
+  "author": "Josh Terrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshterrill/app-version/issues"
+  },
+  "homepage": "https://github.com/joshterrill/app-version#readme"
+}
